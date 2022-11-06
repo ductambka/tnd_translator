@@ -1,0 +1,18 @@
+[project]
+name = "tnd_translator"
+version = "0.0.1"
+authors = [
+  { name="DUCTAMBKA", email="ductambka@gmail.com" },
+]
+description = "[tnd_translator] A small translator use IBM cloud service"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ductambka/tnd_translator.git"
+"Bug Tracker" = "https://github.com/ductambka/tnd_translator/issues"
